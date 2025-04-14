@@ -1,3 +1,4 @@
+package core.java.strings;
 import java.util.Scanner;
 
 public class Anagram {
